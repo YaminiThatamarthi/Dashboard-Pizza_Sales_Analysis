@@ -1,4 +1,5 @@
 🍕 Pizza Sales Dashboard Project
+
 📋 Project Overview
 This project involves the design and development of interactive dashboards analyzing pizza sales data to provide actionable business insights. The dashboards were created using Excel, Tableau, and Power BI, showcasing the full data analysis lifecycle—from data extraction and cleaning to advanced calculations and visualization.
 
